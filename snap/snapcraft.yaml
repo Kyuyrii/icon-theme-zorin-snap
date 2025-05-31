@@ -34,7 +34,7 @@ slots:
 parts:
   icon-themes:
     plugin: dump
-    source: https://github.com/Kyuyrii/icon-theme-zorin-snap/releases/download/3.3.2/zorin-icon-themes-3.3.2.tar.xz
+    source: https://github.com/Kyuyrii/icon-theme-zorin-snap/releases/download/3.3.2/zorin-icon-themes-3.3.2.zip
     organize:
       icon-themes: share/icons
     prime:
